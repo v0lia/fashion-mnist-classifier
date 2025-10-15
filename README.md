@@ -1,7 +1,7 @@
 # 🧠 fashion-mnist-classifier
 Learning PyTorch through Fashin-MNIST
 
-(!) This project has only been started. READMY itself is only a template - yet.
+(!) This project has only been started. README itself is only a template - yet.
 
 ## 🧩 Overview
 **TBD**
